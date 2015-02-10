@@ -4,6 +4,8 @@
 #
 # Name: liverpoolFC_RSS_Imports.pl
 #
+# Author: Nick Coats
+#
 # Desc: This script is used to fetch RSS media from a variety of
 #		online sources and store the data in a database. To use, 
 #		you must first pull a list of RSS link sources. As you loop
